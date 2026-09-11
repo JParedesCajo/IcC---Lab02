@@ -139,19 +139,19 @@ Según el ejercicio se uso el volumen llamnado postgres_data para persistir la i
 
 Se agrega evidencia de la ejecución de las tres instancias de la API y el servicio de PostgreSQL.
 
-![Servicios desplegados](./capturas/compose-ps.png)
+![Servicios desplegados](./docker-compose/capturas/compose-ps.png)
 
 ### VOLUMEN PERSISTENTE
 
 Se agrega evidencia de la ejecución del volumen utilizado par la persistencia de PostgreSQL.
 
-![Volumen Docker](./capturas/volume-ls.png)
+![Volumen Docker](./docker-compose/capturas/volume-ls.png)
 
 ### RED DOCKER
 
 Se agrega evidencia de la red creada por Docker Compose para la comunicación entre los servicios.
 
-![Red Docker](./capturas/network-ls.png)
+![Red Docker](./docker-compose/capturas/network-ls.png)
 
 # CREDITOS
 
